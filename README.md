@@ -59,4 +59,4 @@ python manage.py runserver
 ```
 <br />
 
-### If it is not already open you should now be able to go to [http://localhost:3000/](http://localhost:3000/), put in your location, submit and see results.
+### If it is not already open you should now be able to go to [http://localhost:3000/](http://localhost:3000/), put in your location, submit and see results. It's not the most beautiful things, but it gets the job done.
